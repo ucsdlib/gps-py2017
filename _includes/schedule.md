@@ -1,19 +1,19 @@
+
 +-----------+---------------------------------+-----------------------------------------------------------+
 | Date      | Class                           | Topics                                                    |
 +===========+=================================+===========================================================+
 | Jan. 25   | Setup, Intro & numpy            | - Intro to course                                         | 
 |           |                                 | - [Analyzing patient data](http://goo.gl/m0Y6r4)          |
-------------+---------------------------------+-----------------------------------------------------------+
-| Jan. 27   | Lab: Intro & numpy              | - [Programming workbook]()           |
-|           |                                 | - [Assignment]()                     |
 +-----------+---------------------------------+-----------------------------------------------------------+
-| Jan. 11   | Loops, lists & functions        | - [Repeating actions with loops]()      |
-|           |                                 | - [Storing multiple values in lists]()           |
-|           |                                 | - [Creating functions]  ()            |
+| Jan. 27   | Lab: Intro & numpy              | - Programming workbook                                  |
+|           |                                 | - Assignment                                             |
 +-----------+---------------------------------+-----------------------------------------------------------+
+| Jan. 11   | Loops, lists & functions        | - Repeating actions with loops                            |
+|           |                                 | - Storing multiple values in lists                        |
+|           |                                 | - Creating functions                                      |        +-----------+---------------------------------+-----------------------------------------------------------+
 | Jan. 13   | Lab: Loops, lists & functions   | - Challenges & assignment                                 |
 +-----------+---------------------------------+-----------------------------------------------------------+
-| Jan. 20   | Pandas and using functions      | - [Modularization]() |
+| Jan. 20   | Pandas and using functions      | - Modularization                                          |
 +-----------+---------------------------------+-----------------------------------------------------------+
 | Jan. 22   | Lab: Pandas & using functions   | - Wrap-up                                                 |
 |           |                                 | - Challenges & assignment                                 |
