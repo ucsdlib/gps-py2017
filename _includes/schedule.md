@@ -8,14 +8,14 @@
 | Jan. 27   | Lab: Intro & numpy              | - Programming workbook                                    |
 |           |                                 | - Assignment                                              |
 +-----------+---------------------------------+-----------------------------------------------------------+
-| Jan. 11   | Loops, lists & functions        | - [Repeating actions with loops](http://goo.gl/1oAu1Z)    |
+| Feb. 1    | Loops, lists & functions        | - [Repeating actions with loops](http://goo.gl/1oAu1Z)    |
 |           |                                 | - [Storing multiple values in lists](http://goo.gl/fV1L2F)|
 |           |                                 | - [Creating functions](http://goo.gl/R4zvnl)              | 
 +-----------+---------------------------------+-----------------------------------------------------------+
-| Jan. 13   | Lab: Loops, lists & functions   | - Challenges & assignment                                 |
+| Feb. 3    | Lab: Loops, lists & functions   | - Challenges & assignment                                 |
 +-----------+---------------------------------+-----------------------------------------------------------+
-| Jan. 20   | Pandas and using functions      | - [Modularization](http://goo.gl/CgzhPE)                  |
+| Feb. 8    | Pandas and using functions      | - [Modularization](http://goo.gl/CgzhPE)                  |
 +-----------+---------------------------------+-----------------------------------------------------------+
-| Jan. 22   | Lab: Pandas & using functions   | - Wrap-up                                                 |
+| Feb. 10   | Lab: Pandas & using functions   | - Wrap-up                                                 |
 |           |                                 | - Challenges & assignment                                 |
 +-----------+---------------------------------+-----------------------------------------------------------+
