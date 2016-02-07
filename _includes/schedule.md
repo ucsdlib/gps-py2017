@@ -14,7 +14,8 @@
 +-----------+---------------------------------+-----------------------------------------------------------+
 | Jan. 13   | Lab: Loops, lists & functions   | - Challenges & assignment                                 |
 +-----------+---------------------------------+-----------------------------------------------------------+
-| Jan. 20   | Pandas and using functions      | - [Modularization](http://goo.gl/CgzhPE)                  |
+| Feb. 8    | Pandas and using functions      | - [Modularization](http://goo.gl/CgzhPE)                  |
+|           |                                 | - [Msoquito data](http://goo.gl/CgzhPE)                  |
 +-----------+---------------------------------+-----------------------------------------------------------+
 | Jan. 22   | Lab: Pandas & using functions   | - Wrap-up                                                 |
 |           |                                 | - Challenges & assignment                                 |
