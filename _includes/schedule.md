@@ -15,7 +15,7 @@
 | Feb. 3    | Lab: Loops, lists & functions   | - Challenges & assignment                                 |
 +-----------+---------------------------------+-----------------------------------------------------------+
 | Feb. 8    | Pandas and using functions      | - [Modularization](http://goo.gl/CgzhPE)                  |
-|           |                                 | - [Msoquito data](http://goo.gl/CgzhPE)                   |
+|           |                                 | - [Msoquito data](http://ucsdlib.github.io/win2016-python-gps/mosquito-data.zip)                   |
 +-----------+---------------------------------+-----------------------------------------------------------+
 | Feb. 10   | Lab: Pandas & using functions   | - Wrap-up                                                 |
 |           |                                 | - Challenges & assignment                                 |
