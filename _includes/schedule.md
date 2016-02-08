@@ -15,7 +15,11 @@
 | Feb. 3    | Lab: Loops, lists & functions   | - Challenges & assignment                                 |
 +-----------+---------------------------------+-----------------------------------------------------------+
 | Feb. 8    | Pandas and using functions      | - [Modularization](http://goo.gl/CgzhPE)                  |
-|           |                                 | - [Msoquito data](http://ucsdlib.github.io/win2016-python-gps/mosquito-data.zip)                   |
+|           |                                 | - [Msoquito data](http://ucsdlib.github.io/win2016-python-gps/mosquito-data.zip) |
+|           |                                 | - Jupiter Notebooks:                                      |
+|           |                                 |   1. Pandas: [as html](http://goo.gl/iS0giS), [ipynb](http://goo.gl/vOdrwu)|
+|           |                                 |   2. Functions: [as html](http://goo.gl/CKxZzn), [ipynb](http://goo.gl/pZGSji)|
+|           |                                 |   2. Using function: [as html](http://goo.gl/Ila8Lp), [ipynb](http://goo.gl/oFN0fa)|
 +-----------+---------------------------------+-----------------------------------------------------------+
 | Feb. 10   | Lab: Pandas & using functions   | - Wrap-up                                                 |
 |           |                                 | - Challenges & assignment                                 |
