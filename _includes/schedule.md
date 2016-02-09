@@ -12,7 +12,7 @@
 |           |                                 | - [Storing multiple values in lists](http://goo.gl/fV1L2F)|
 |           |                                 | - [Creating functions](http://goo.gl/R4zvnl)              | 
 +-----------+---------------------------------+-----------------------------------------------------------+
-| Feb. 3    | Lab: Loops, lists & functions   | - Challenges & assignment                                 |
+| Feb. 3    | Lab: Loops, lists & functions   | - [Workbook & answers](http://goo.gl/d3RDVq) [ipynb](http://goo.gl/BEugWC) & [assignment](http://goo.gl/3fFlk1) [ipynb](http://goo.gl/iizHL8) |
 +-----------+---------------------------------+-----------------------------------------------------------+
 | Feb. 8    | Pandas and using functions      | - [Modularization](http://goo.gl/CgzhPE)                  |
 |           |                                 | - [Msoquito data](http://ucsdlib.github.io/win2016-python-gps/mosquito-data.zip) |
