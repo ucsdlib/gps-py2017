@@ -21,6 +21,6 @@
 |           |                                 |   2. Functions: [as html](http://goo.gl/CKxZzn), [ipynb](http://goo.gl/pZGSji)|
 |           |                                 |   2. Using function: [as html](http://goo.gl/Ila8Lp), [ipynb](http://goo.gl/oFN0fa)|
 +-----------+---------------------------------+-----------------------------------------------------------+
-| Feb. 10   | Lab: Pandas & using functions   | - Wrap-up                                                 |
+| Feb. 10   | Lab: Pandas & using functions   | - [Workbook & answers](https://goo.gl/xWd7jnhttps://goo.gl/eptilX) ([ipynb]()) & [assignment](https://goo.gl/eptilX)([ipynb]()) |
 |           |                                 | - Challenges & assignment                                 |
 +-----------+---------------------------------+-----------------------------------------------------------+
