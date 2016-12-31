@@ -1,8 +1,8 @@
 #--------------------------------------------------------------------------------
 # Values for this workshop - EDIT THIS SECTION.
 #--------------------------------------------------------------------------------
-workshop_repo   : "https://github.com/ucsdlib/win2016-python-gps"
-workshop_site   : "http://ucsdlib.github.io/win2016-python-gps"
+workshop_repo   : "https://github.com/ucsdlib/gps-py2017"
+workshop_site   : "http://ucsdlib.github.io/gps-py2017"
 #--------------------------------------------------------------------------------
 # Standard Software Carpentry settings - should not need to be modified.
 #--------------------------------------------------------------------------------
